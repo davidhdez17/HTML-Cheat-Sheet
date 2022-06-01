@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    font-family: Arial;
+    color: chartreuse;
+
+}
+header{
+    font-weight: bold;
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid chartreuse;
+    border-collapse: collapse;
+}
+
+.TableTitle{
+    font-size: 30px;
+}
+td{
+    padding: 15px;
+}
+th{
+    font-size: 20px;
+}
+a{
+    color: chartreuse;
+    font-size: 20px;
+}
+ul{
+    padding: 0px;
+}
+li{
+    padding: 5px;
+}
+
